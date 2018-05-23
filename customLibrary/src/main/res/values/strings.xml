@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CustomLibrary</string>
+
+    <!--Select Phone Number-->
+    <string name="click_on_212_to_choose_your_country_n_and_enter_your_phone_number">Click on (+212) to choose your country   and enter your phone number</string>
+    <string name="valid_number">Confirm</string>
+    <string name="enter_a_val_number">Enter a valid mobile phone</string>
+    <string name="search">Search</string>
+    <string name="phone_number">Phone Number</string>
+    <!--select Phone number end-->
+
+    <!-- Date format -->
+    <string name="date_format_today" translatable="false">HH:mm</string>
+    <string name="date_format_current_month" translatable="false">dd/MM/yyyy HH:mm</string>
+    <string name="date_format" translatable="false">dd/MM/yy</string>
+
+    <string name="date_format_yesterday">YESTERDAY</string>
+    <!--date format end-->
+</resources>

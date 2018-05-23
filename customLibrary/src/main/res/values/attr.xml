@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EdittextVisible">
+        <attr name="EVbackground" format="color|reference"/>
+        <attr name="EVhint" format="string"/>
+        <attr name="EVhintColor" format="color"/>
+        <attr name="EVtextSize" format="dimension"/>
+        <attr name="EVtextColor" format="color"/>
+        <attr name="EVeyeColorActive" format="color" />
+        <attr name="EVeyeColorDefault" format="color" />
+    </declare-styleable>
+    <declare-styleable name="EdittextSelectPhoneCountry">
+        <attr name="ESPbackground" format="color|reference"/>
+        <attr name="ESPbackgroundActivity" format="color|reference"/>
+        <attr name="ESPhint" format="string"/>
+        <attr name="ESPhintColor" format="color"/>
+        <attr name="ESPtext" format="string"/>
+        <attr name="ESPtextSize" format="dimension"/>
+        <attr name="ESPtextColor" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="TextViewRoboto">
+        <attr name="typeFace">
+            <enum name="Roboto_Black" value="1" />
+            <enum name="Roboto_BlackItalic" value="2" />
+            <enum name="Roboto_Bold" value="3" />
+            <enum name="Roboto_BoldItalic" value="4" />
+            <enum name="Roboto_Italic" value="5" />
+            <enum name="Roboto_Light" value="6" />
+            <enum name="Roboto_LightItalic" value="7" />
+            <enum name="Roboto_Medium" value="8" />
+            <enum name="Roboto_MediumItalic" value="9" />
+            <enum name="Roboto_Regular" value="10" />
+            <enum name="Roboto_Thin" value="11" />
+            <enum name="Roboto_ThinItalic" value="12" />
+            <enum name="RobotoCondensed_Bold" value="13" />
+            <enum name="RobotoCondensed_BoldItalic" value="14" />
+            <enum name="RobotoCondensed_Italic" value="15" />
+            <enum name="RobotoCondensed_Light" value="16" />
+            <enum name="RobotoCondensed_LightItalic" value="17" />
+            <enum name="RobotoCondensed_Regular" value="18" />
+        </attr>
+    </declare-styleable>
+</resources>

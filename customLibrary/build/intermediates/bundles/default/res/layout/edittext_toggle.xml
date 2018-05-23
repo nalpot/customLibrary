@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/cardview_light_background">
+
+    <CheckBox
+        android:id="@+id/edittext_visiblePass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="5dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:button="@drawable/ic_visibility_blue"
+        android:descendantFocusability="blocksDescendants" />
+
+    <EditText
+        android:layout_centerVertical="true"
+        android:id="@+id/edittext_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_toLeftOf="@+id/edittext_visiblePass"
+        android:layout_toStartOf="@+id/edittext_visiblePass"
+        android:background="@null"
+        android:imeOptions="actionDone"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:textColor="@color/colorGray"
+        android:textSize="12sp" />
+
+</RelativeLayout>

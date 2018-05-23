@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\project\\library\\Custom\\customLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_back_black_24dp.xml",
+        "source": "C:\\project\\library\\Custom\\customLibrary\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\project\\library\\Custom\\customLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Nalpot\\.android\\build-cache\\c4d0f0721cd1b44154171919cef4e2b79d63aae0\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\project\\library\\Custom\\customLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Nalpot\\.android\\build-cache\\c4d0f0721cd1b44154171919cef4e2b79d63aae0\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    }
+]

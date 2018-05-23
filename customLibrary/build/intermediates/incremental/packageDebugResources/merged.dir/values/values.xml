@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionCommentBg">#03C03C</color>
+    <color name="actionFollowBg">#2196F3</color>
+    <color name="actionLikeBg">#e74c3c</color>
+    <color name="actionMentionBg">#FF5252</color>
+    <color name="black">#ff000000</color>
+    <color name="brown">#cccccc</color>
+    <color name="cardview_light_background">#FFFFFF</color>
+    <color name="colorAccentSecondary">#5fFF5722</color>
+    <color name="colorActionMode">#710EC654</color>
+    <color name="colorBackroundWhite">#f0f2ea</color>
+    <color name="colorBeauBlue">#8fBCD4E6</color>
+    <color name="colorBlack">#ff000000</color>
+    <color name="colorBlackLight">#5f000000</color>
+    <color name="colorBlackLightCustomToast">#7f000000</color>
+    <color name="colorBlackOpc">#10000000</color>
+    <color name="colorBlue">#007ee5</color>
+    <color name="colorBlueLight">#03A9F4</color>
+    <color name="colorBlueLighter">#21007ee5</color>
+    <color name="colorCeladionGreen">#ACE1AF</color>
+    <color name="colorCreatedOfflineLighter">#1f636363</color>
+    <color name="colorCyan">#00FFFF</color>
+    <color name="colorDivider">#B6B6B6</color>
+    <color name="colorElshaddai">#6C006F</color>
+    <color name="colorElshaddaiLight">#BF13D1</color>
+    <color name="colorGold">#b8c213</color>
+    <color name="colorGray">#495C67</color>
+    <color name="colorGrayDark">#636363</color>
+    <color name="colorGrayDarker">#607D8B</color>
+    <color name="colorGrayDarkerBar">#455A64</color>
+    <color name="colorGrayLight">#B6B6B6</color>
+    <color name="colorGrayLighter">#EAEAEA</color>
+    <color name="colorGrayShadow">#20000000</color>
+    <color name="colorGrayStatus">#20000000</color>
+    <color name="colorGreen">#03C03C</color>
+    <color name="colorGreenLight">#710EC654</color>
+    <color name="colorGreenLighter">#a1e4b5</color>
+    <color name="colorGreenVeryDark">#00C853</color>
+    <color name="colorHanBlue">#446CCF</color>
+    <color name="colorHolderDrawable">#0c7465</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorJelly">#DA614E</color>
+    <color name="colorLeftBubble">#7003A9F4</color>
+    <color name="colorLightSeaGreen">#20B2AA</color>
+    <color name="colorMetallic">#0A7E8C</color>
+    <color name="colorOrange">#FF9800</color>
+    <color name="colorOrangeDark">#FF5722</color>
+    <color name="colorOrangeLight">#FF5252</color>
+    <color name="colorPearl">#88D8C0</color>
+    <color name="colorPinkDark">#E91E63</color>
+    <color name="colorPinkLight">#F06898</color>
+    <color name="colorPinkVeryLight">#FCDCE8</color>
+    <color name="colorPrimaryLight">#30ffffff</color>
+    <color name="colorPrimaryLightRipple">#5fffffff</color>
+    <color name="colorPrimaryLightRipple_">#1e5baff4</color>
+    <color name="colorPrimaryLightSelect">#E6E6E6</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorRedDark">#f11409</color>
+    <color name="colorRedLighter">#f9a29e</color>
+    <color name="colorRightBubble">@color/colorWhite</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="colorSpanSearch">@color/actionLikeBg</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhiteLight">#21ffffff</color>
+    <color name="colorWhiteLighter">#99ffffff</color>
+    <color name="colorWhiteLighters">#55ffffff</color>
+    <color name="colorYellow">#eeff41</color>
+    <color name="colorYellowLighter">#edf59c</color>
+    <color name="common_background">#f5f3f0</color>
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_focused">#77000000</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop_bg">#D5D5D5</color>
+    <color name="dialog_title">#ffff0000</color>
+    <color name="divider">#e8e3e3</color>
+    <color name="gray">#666666</color>
+    <color name="pale_pink">#cbc4c6</color>
+    <color name="pink">#ff5d65</color>
+    <color name="tabcolor">#6e686a</color>
+    <color name="transparent">#00000000</color>
+    <color name="txt_color_gray_3">#cbc4c6</color>
+    <color name="white">#ffffffff</color>
+    <declare-styleable name="EdittextSelectPhoneCountry"><attr format="color|reference" name="ESPbackground"/><attr format="color|reference" name="ESPbackgroundActivity"/><attr format="string" name="ESPhint"/><attr format="color" name="ESPhintColor"/><attr format="string" name="ESPtext"/><attr format="dimension" name="ESPtextSize"/><attr format="color" name="ESPtextColor"/></declare-styleable>
+    <declare-styleable name="EdittextVisible"><attr format="color|reference" name="EVbackground"/><attr format="string" name="EVhint"/><attr format="color" name="EVhintColor"/><attr format="dimension" name="EVtextSize"/><attr format="color" name="EVtextColor"/><attr format="color" name="EVeyeColorActive"/><attr format="color" name="EVeyeColorDefault"/></declare-styleable>
+    <declare-styleable name="TextViewRoboto"><attr name="typeFace">
+            <enum name="Roboto_Black" value="1"/>
+            <enum name="Roboto_BlackItalic" value="2"/>
+            <enum name="Roboto_Bold" value="3"/>
+            <enum name="Roboto_BoldItalic" value="4"/>
+            <enum name="Roboto_Italic" value="5"/>
+            <enum name="Roboto_Light" value="6"/>
+            <enum name="Roboto_LightItalic" value="7"/>
+            <enum name="Roboto_Medium" value="8"/>
+            <enum name="Roboto_MediumItalic" value="9"/>
+            <enum name="Roboto_Regular" value="10"/>
+            <enum name="Roboto_Thin" value="11"/>
+            <enum name="Roboto_ThinItalic" value="12"/>
+            <enum name="RobotoCondensed_Bold" value="13"/>
+            <enum name="RobotoCondensed_BoldItalic" value="14"/>
+            <enum name="RobotoCondensed_Italic" value="15"/>
+            <enum name="RobotoCondensed_Light" value="16"/>
+            <enum name="RobotoCondensed_LightItalic" value="17"/>
+            <enum name="RobotoCondensed_Regular" value="18"/>
+        </attr></declare-styleable>
+    <string name="app_name">CustomLibrary</string>
+    <string name="click_on_212_to_choose_your_country_n_and_enter_your_phone_number">Click on (+212) to choose your country   and enter your phone number</string>
+    <string name="date_format" translatable="false">dd/MM/yy</string>
+    <string name="date_format_current_month" translatable="false">dd/MM/yyyy HH:mm</string>
+    <string name="date_format_today" translatable="false">HH:mm</string>
+    <string name="date_format_yesterday">YESTERDAY</string>
+    <string name="enter_a_val_number">Enter a valid mobile phone</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="search">Search</string>
+    <string name="valid_number">Confirm</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorOrange</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/colorBlack</item>
+    </style>
+    <style name="AppThemeNoActionBar" parent="@style/AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="DefaultScene">
+        <item name="EVeyeColorDefault">#000000</item>
+        <item name="EVeyeColorActive">#03A9F4</item>
+    </style>
+    <style name="TextInputEditTextStyle">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textColorHint">@color/colorWhiteLighter</item>
+        <item name="android:layout_margin">16dp</item>
+    </style>
+</resources>

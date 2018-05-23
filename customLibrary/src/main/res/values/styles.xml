@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorOrange</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/colorBlack</item>
+    </style>
+
+    <style name="AppThemeNoActionBar" parent="@style/AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="DefaultScene">
+        <item name="EVeyeColorDefault">#000000</item>
+        <item name="EVeyeColorActive">#03A9F4</item>
+    </style>
+
+    <style name="TextInputEditTextStyle">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textColorHint">@color/colorWhiteLighter</item>
+        <item name="android:layout_margin">16dp</item>
+    </style>
+</resources>
